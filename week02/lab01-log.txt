@@ -1,0 +1,16 @@
+  168  deactivate
+  169  which python3
+  170  q
+  171  man ls
+  172  cd cod
+  173  cd cod
+  174  cd cod
+  175  history
+  176  python3
+  177  history
+  178  history > week02/lab01-log.txt
+  179  history
+  180  history > week02/lab01-log.txt
+  181  history
+  182  history > week02/lab01-log.txt
+  183  cd ~ coding-cafe
